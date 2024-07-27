@@ -1,4 +1,5 @@
 package org.opentutorials.generic;
+// [youtube 생활코딩] Java - 제네릭  
 
 class StudentInfo{
   public int grade;
